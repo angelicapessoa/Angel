@@ -13,6 +13,7 @@ public class Angélica {
 		System.out.println("Sexo: " + sexo);
 		System.out.println("Temperatura: " + temperatura);
 		System.out.println("Ar condiconado: " + arcondicionado);
+		System.out.println("tecnologia");
 
 	}
 
